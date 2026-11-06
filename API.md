@@ -1,8 +1,6 @@
-Ниже представлен текст файла API.md. Все служебные символы Markdown (звездочки, решетки, обратные кавычки) экранированы обратным слэшем \, чтобы вы могли скопировать этот текст и увидеть исходные знаки форматирования.
-
 # API Documentation: TaskFlow
 
-**Base URL:** `http://127.0.0.1:5000/api/v1\`
+**Base URL:** `http://127.0.0.1:5000/api/v1`
 **Content-Type:** `application/json`
 **Authentication:** Большинство эндпоинтов требуют передачи JWT-токена в заголовке: `Authorization: Bearer <access_token>`
 
