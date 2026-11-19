@@ -1,0 +1,10 @@
+<tasks>
+  <task id="1">
+    <title>Создать репозиторий</title>
+    <status>done</status>
+  </task>
+  <task id="2">
+    <title>Написать API</title>
+    <status>in_progress</status>
+  </task>
+</tasks>

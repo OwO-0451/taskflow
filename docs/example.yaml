@@ -1,0 +1,7 @@
+tasks:
+  - id: 1
+    title: Создать репозиторий
+    status: done
+  - id: 2
+    title: Написать API
+    status: in_progress
